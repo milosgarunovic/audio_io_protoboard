@@ -1,0 +1,35 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+*.class
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fusion 360 backup files (if any get generated)
+*.bak
+*.tmp
+
+# 3D print slicing artifacts (optional)
+*.gcode
+*.factory
+*.ufp
+*.curaprofile
+*.3mf-preview.png
+
+# Logs and cache
+*.log
+
+# OS X Finder attributes
+*.AppleDouble
+.AppleDB
+.AppleDesktop
+Network Trash Folder/
+Temporary Items/
+
+# Project exclude paths
+/export/
